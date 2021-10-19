@@ -1,4 +1,4 @@
 /**/*.o
 /**/*.pyc
-
+/**/*.swp
 match_system/src/main
